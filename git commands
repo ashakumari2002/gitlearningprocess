@@ -1,0 +1,9 @@
+git clone <https git linking>
+
+
+# for uploading file or code change or to modify a file
+git add <file name which to be added>
+git commit -m <for message and info. with "">
+git push
+
+git pull < used to update the repo>
