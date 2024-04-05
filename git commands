@@ -6,7 +6,8 @@ git add <file name which to be added>
 git commit -m <for message and info. with "">
 git push
 
-git pull < used to update the repo>
+#used to check update of repo
+git pull 
 
 # used to check status of git and gihub of local and cloud file
 git status 
