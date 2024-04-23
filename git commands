@@ -11,3 +11,12 @@ git pull
 
 # used to check status of git and gihub of local and cloud file
 git status 
+
+#check present branch
+git branch
+
+#list of all branch
+git branch -r
+
+#git branch switch
+git checkout <branch_name>
